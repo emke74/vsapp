@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U4D39CN7b/LHbu44KQIdAkqCcMyyzECD4Dv+KlWrHmAOQ9CiNoVYDQOXZJ7+1Z/qzaUaD1ODbhvHoiiFdlZsDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gipszjakab\\source\\repos\\vsapp2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gipszjakab\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
